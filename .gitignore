@@ -1,0 +1,20 @@
+# archivos compilados
+*.class
+
+# carpeta de build
+target/
+build/
+
+# logs
+*.log
+
+# archivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+.env
